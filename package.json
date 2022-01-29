@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "@types/readline-sync": "^1.4.4",
+    "ts-node": "^10.4.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "game": "npx ts-node lib/main.ts"
+  }
+}
